@@ -22,7 +22,7 @@ That thing you have to carry around now. This section assumes you are using a ce
 
 #### Notify on Assignment
 
-This is a sample notification policy to alert me when an incident is assigned to me.  It's intention is to be "helpfully persistent".  This is catered to my order-of-notification preference, as well as my "dexterity issues" during the wee hours.  Feel free to tweak as desired.
+This is a sample notification policy to alert me when an incident is assigned to me.  It's intention is to be "helpfully persistent".  This is catered to my order-of-notification preference, as well as my "dexterity issues" during the early hours in the morning.  Feel free to tweak as desired.
 
 | Timeframe   | Method |
 | ----------- | ------ |
