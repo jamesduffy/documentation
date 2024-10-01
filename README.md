@@ -6,19 +6,13 @@ This is a collection of best practices, guidelines, and reference materials that
 
 This repository covers a wide range of topics, including:
 
-Incident Response: Comprehensive incident response plans and communication templates.
-
-Runbooks & SOPs: Playbooks for service management, maintenance, and emergency procedures.
-
-Infrastructure as Code: Best practices and examples for Terraform and more.
-
-CI/CD Pipelines: Guides and configurations for setting up robust CI/CD workflows.
-
-Monitoring & Alerting: Strategies for observability, logging, and setting up alerting rules.
-
-Security & Compliance: IAM roles and policies, secret management, and compliance strategies.
-
-Cloud Cost Management: Tips for optimizing cloud usage and controlling costs.
+- [x] Incident Response: Comprehensive incident response plans and communication templates.
+- [ ] Runbooks & SOPs: Playbooks for service management, maintenance, and emergency procedures.
+- [ ] Infrastructure as Code: Best practices and examples for Terraform and more.
+- [ ] CI/CD Pipelines: Guides and configurations for setting up robust CI/CD workflows.
+- [ ] Monitoring & Alerting: Strategies for observability, logging, and setting up alerting rules.
+- [ ] Security & Compliance: IAM roles and policies, secret management, and compliance strategies.
+- [ ] Cloud Cost Management: Tips for optimizing cloud usage and controlling costs.
 
 
 How to Use This Repository
