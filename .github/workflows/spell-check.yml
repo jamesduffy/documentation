@@ -1,6 +1,6 @@
 name: Spell Check and Markdown Lint
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   spell-check:
