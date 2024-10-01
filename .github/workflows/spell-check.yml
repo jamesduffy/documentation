@@ -1,0 +1,30 @@
+name: Spell Check and Markdown Lint
+
+on: [push, pull_request]
+
+jobs:
+  spell-check:
+    name: Spell Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Codespell
+        run: |
+          sudo apt-get update && sudo apt-get install -y codespell
+      - name: Run Codespell
+        run: |
+          codespell --ignore-words-list="hte,teh,ans" --skip="*.json,*.yaml,*.yml,*.xml" .
+
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Install Markdownlint
+        run: |
+          sudo npm install -g markdownlint-cli
+      - name: Run Markdownlint
+        run: |
+          markdownlint '**/*.md' --ignore node_modules
