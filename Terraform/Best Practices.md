@@ -30,7 +30,7 @@ Each module should have its own main.tf, variables.tf, and outputs.tf files.
 Keep modules self-contained and avoid hard-coded values.
 Example Directory Structure:
 
-```
+```bash
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
@@ -44,6 +44,7 @@ Example Directory Structure:
 ```
 
 ## Use Meaningful Resource Names and Descriptions
+
 Use clear and descriptive names for resources, variables, and outputs. This helps others understand the purpose of each component at a glance.
 
 Use a consistent naming convention, such as project_name-environment-resource_name.
@@ -69,6 +70,7 @@ resource "aws_instance" "web_server" {
 ```
 
 ## Use Variables and Avoid Hardcoding
+
 Avoid hardcoding values directly in the configuration files. Use variables instead to promote flexibility and reusability.
 
 Define variables in a separate variables.tf file.
@@ -76,8 +78,7 @@ Use default values when possible, and validate variable values to enforce constr
 
 Example:
 
-```
-hcl
+```hcl
 variable "environment" {
   description = "The environment for deploying resources (e.g., dev, prod)"
   type        = string

@@ -2,7 +2,7 @@
 
 Optimizing on-call rotations for health and life-balance is a group effort. Managers have a large impact on how successful a rotation is allowed to be. Peers have a large impact on how draining a rotation is, and in the mental well-being of everyone involved.
 
-## If you're in a position to suggest changes to your on-call rotation, here are some things to consider:
+## If you're in a position to suggest changes to your on-call rotation, here are some things to consider
 
 1. If the person on-call does not have a secondary, provide them a secondary.
 2. If the rotation is too small, employees on-call will always feel stressed about being on-call. If the rotation is too large, employees on-call may not have frequent enough interactions with certain systems.
@@ -14,7 +14,7 @@ Optimizing on-call rotations for health and life-balance is a group effort. Mana
 8. If your rotation has a defined *maximum time-to-response*, that alone has impacts on the ability of people to have a life. Consider shorter shifts if your rotation has such.
 9. Posting on-call shifts to the calendars of the people on-call will help people plan around on-call times better.
 
-## There are some other things you can do as a team to make your on-call rotation successful:
+## There are some other things you can do as a team to make your on-call rotation successful
 
 1. Make sure there is time budgeted to resolve issues that arise during on-call rotations. This can be done in a number of ways: carving off a block of time each week; dedicating one person to fix problems when they arise; etc. Remember that a) your on-call person will be randomized and is not ideal for fixing permanent problems and b) if your team does not pick up this work, it will be forgotten when the next person is on-call. This can also include a review of the severity of the alerting; is an after-hours page necessary, or could it be solved during the next business day?
 2. Have PagerDuty send an email to the entire team whenever a page fires so that everybody is aware of the frequency. Have on-call employees send emails with more detail once the issue is resolved. This will give everybody an idea of how often specific incidents are occurring and how long they take to resolve. If something fails frequently, its stability should be examined.
