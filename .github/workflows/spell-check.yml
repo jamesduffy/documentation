@@ -14,7 +14,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y codespell
       - name: Run Codespell
         run: |
-          codespell --ignore-words-list="hte,teh,ans" --skip="*.json,*.yaml,*.yml,*.xml" .
+          codespell
 
   markdown-lint:
     name: Markdown Lint
@@ -27,4 +27,4 @@ jobs:
           sudo npm install -g markdownlint-cli
       - name: Run Markdownlint
         run: |
-          markdownlint '**/*.md' --ignore node_modules
+          markdownlint '**/*.md'
