@@ -137,29 +137,6 @@ Use tools like GitHub Actions, GitLab CI/CD, or Jenkins.
 
 Include steps for terraform fmt, terraform validate, terraform plan, and terraform apply.
 
-Example CI/CD Pipeline:
-
-```yaml
-stages:
-  - validate
-  - plan
-  - apply
-
-validate:
-  script:
-    - terraform init
-    - terraform validate
-    - terraform fmt -check
-
-plan:
-  script:
-    - terraform plan -out=tfplan.out
-
-apply:
-  script:
-    - terraform apply tfplan.out
-```
-
 ## Document Your Code
 
 Always include documentation in your Terraform files to help others understand your configurations.
