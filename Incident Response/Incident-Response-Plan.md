@@ -21,7 +21,7 @@ Responsibilities:
 - Establish initial priorities and objectives.
 - Communicate with other stakeholders (e.g., management, external parties) as needed.
 
-#### Incident Commander (IC):
+#### Incident Commander (IC)
 
 As more personnel join, the IC role may be reassigned to a more senior or experienced individual. The IC has overall responsibility for incident management, decision-making, and ensuring that response actions are coordinated effectively.
 
