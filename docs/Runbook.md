@@ -1,6 +1,6 @@
 # Runbook
 
-> This document goes together with the [Incident Response Plan](incident-response/Incident-Response-Plan.md). This document is organized that for each incident you start at the top of this document and work your way down.
+> This document goes together with the [Incident Response Plan](incident-response/incident-response-plan.md). This document is organized that for each incident you start at the top of this document and work your way down.
 
 ## Initial Response
 

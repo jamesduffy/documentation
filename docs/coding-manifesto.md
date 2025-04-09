@@ -14,4 +14,4 @@
 9. Work on feature branches and merge to main as features are completed and deployable.
 10. Do not join any code churches and don't subscribe to doctrines that make your decisions for you.
 11. Every project should have a README in the root level that explains how to bootstrap the app. Those instructions should be directed at an experienced developer who knows your deployment system but might not know anything about the app. It should include how to bootstrap data and install the app's dependencies in development and in production, as well as any special post-deploy instructions. When creating this README, imagine your reader as an exhausted, freaked-out sysadmin recovering from a system meltdown. Don't make her think. When possible, make a setup script that expresses dev bootstrap instructions as comments in a shell script that [will actually do the bootstrapping](http://robots.thoughtbot.com/post/41439635905/bin-setup). Or just [use make](http://bost.ocks.org/mike/make/).
-12. [Don't repeat yourself.](Coding_Manifesto.md)
+12. [Don't repeat yourself.](coding-manifesto.md)
