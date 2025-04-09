@@ -7,7 +7,7 @@
 1. Some rules are more important than others and are worth following.
    - For instance, we like this rule: Code has two audiences -- the compiler and your fellow developers. Recognize that your code will eventually need to be understood by other people. To the maximum extent possible and within the bounds of reason and your deadline, prefer code that's easy for other developers to understand over code that accomplishes the same task in a more obscure way.
 1. More important than establishing a shared style is establishing shared standards for security, compatibility and performance.
-1. Write code that is secure, tested and optimized. 
+1. Write code that is secure, tested and optimized.
 1. Follow all security best practices. Apply patches without procrastinating.
 1. Any backup plan that doesn't include recovery drills is just a hypothesis. [via](http://shop.oreilly.com/product/9781565926424.do)
 1. Don't write code that guesses at future functionality.

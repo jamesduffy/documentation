@@ -114,6 +114,6 @@ The company pays for or subsidizes the cell service for people on-call.
  [NOC]: Glossary.md#network-operations-center
  [escalation]: Glossary.md#escalation
  [overrides]: Glossary.md#overrides
- [post-mortem]: Glossary.md#post-mortem
- [shift-swapping]: Gloccary.md#shift-swapping
+ [post-mortem]: Glossary.md#postmortem
+ [shift-swapping]: Glossary.md#shift-swapping
  [byod-ca]: http://www.computerworld.com/article/2599121/byod/california-cell-phone-ruling-poses-big-byod-challenge.html
