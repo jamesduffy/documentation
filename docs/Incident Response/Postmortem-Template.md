@@ -1,3 +1,8 @@
+# Postmortem Template
+
+Below is a template that can be used as a good starting point for your postmortems.
+
+```md
 # Postmortem IR-000: Short Description of Incident
 
 | Incident Properties |                           |
@@ -28,3 +33,4 @@ A detailed sequence of events that led to the incident, including contributing f
 
 - [ ] Task 1
 - [ ] Task 2
+```

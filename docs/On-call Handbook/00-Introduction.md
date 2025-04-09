@@ -1,4 +1,4 @@
-# On Call Handbook
+# Introduction
 
 > [!NOTE]
 > This is based on the [On-call Handbook](https://github.com/alicegoldfuss/oncall-handbook/tree/master), but updated to fit my preference for On-Call.
