@@ -7,31 +7,31 @@ This guide will help you set up and run tabletop exercises. Tabletop exercises s
 ### How to Run a Tabletop Exercise
 
 1. **Assign a Scenario Leader**
-   - The Scenario Leader will guide the exercise and provide new information as the team works through the scenario.
-   - The Scenario Leader's role is to find gaps in the incident response process (IRP) and help the team learn to work together.
+    - The Scenario Leader will guide the exercise and provide new information as the team works through the scenario.
+    - The Scenario Leader's role is to find gaps in the incident response process (IRP) and help the team learn to work together.
 
 2. **Assign Roles**
-   - **Incident Commander**: Leads the response, makes decisions, and coordinates the team's actions.
-   - **Technical Lead(s)**: Handles technical troubleshooting and mitigation.
-   - **Communication Lead**: Manages internal and external communication.
+    - **Incident Commander**: Leads the response, makes decisions, and coordinates the team's actions.
+    - **Technical Lead(s)**: Handles technical troubleshooting and mitigation.
+    - **Communication Lead**: Manages internal and external communication.
 
 3. **Start the Scenario**
-   - The team begins the scenario without any prior information about the incident. The Scenario Leader will provide an initial briefing to set the context.
-   - The Incident Commander must lead the team in investigating and resolving the scenario using existing procedures.
+    - The team begins the scenario without any prior information about the incident. The Scenario Leader will provide an initial briefing to set the context.
+    - The Incident Commander must lead the team in investigating and resolving the scenario using existing procedures.
 
 4. **Introduce New Information**
-   - The Scenario Leader introduces new information (injects) throughout the exercise to keep it progressing and add complexity.
-   - Example Injects:
-     - “The cloud provider’s support team is unresponsive.”
-     - “A new log entry shows that the issue may be related to a recent deployment.”
+    - The Scenario Leader introduces new information (injects) throughout the exercise to keep it progressing and add complexity.
+    - Example Injects:
+      - “The cloud provider’s support team is unresponsive.”
+      - “A new log entry shows that the issue may be related to a recent deployment.”
 
 5. **Conclude the Exercise**
-   - Once the scenario is resolved, or the exercise time is up, the Scenario Leader concludes the exercise.
-   - The team should discuss what went well, what was challenging, and what they would do differently next time.
+    - Once the scenario is resolved, or the exercise time is up, the Scenario Leader concludes the exercise.
+    - The team should discuss what went well, what was challenging, and what they would do differently next time.
 
 6. **Document Findings**
-   - Summarize the exercise, including observations and recommended action items.
-   - Share the findings with the team to improve future responses.
+    - Summarize the exercise, including observations and recommended action items.
+    - Share the findings with the team to improve future responses.
 
 ### Tips for a Successful Tabletop Exercise
 

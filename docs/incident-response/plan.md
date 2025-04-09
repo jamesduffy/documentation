@@ -1,6 +1,5 @@
 # Incident Response Plan
 
-> [!NOTE]
 > This is based on the principals of Incident Command System (ICS), a standardized approach for managing emergencies often used by governments, including the U.S. Federal Government's National Incident Management System (NIMS). The basic idea is that the first person on the scene becomes the Incident Commander (IC) and can delegate roles as more people join, ensuring clarity in roles, decision-making, and communication.
 
 ## 1. Purpose and Scope

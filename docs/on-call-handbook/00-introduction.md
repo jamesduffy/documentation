@@ -1,6 +1,5 @@
 # Introduction
 
-> [!NOTE]
 > This is based on the [On-call Handbook](https://github.com/alicegoldfuss/oncall-handbook/tree/master), but updated to fit my preference for On-Call.
 
 Is this your first time on-call? Or, perhaps not your first rodeo, but you want to see what others are doing with theirs? You're in the right place.
